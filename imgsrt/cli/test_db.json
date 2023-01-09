@@ -1,0 +1,629 @@
+{
+    "name": "lfs207",
+    "type": "directory",
+    "children": [
+        {
+            "name": "screenshots",
+            "type": "directory",
+            "children": []
+        },
+        {
+            "name": "chapters",
+            "type": "directory",
+            "children": [
+                {
+                    "name": "chapter_5.md",
+                    "type": "file"
+                },
+                {
+                    "name": "chapter_6.md",
+                    "type": "file"
+                },
+                {
+                    "name": "chapter_17.md",
+                    "type": "file"
+                },
+                {
+                    "name": "chapter_15.md",
+                    "type": "file"
+                },
+                {
+                    "name": "chapter_16.md",
+                    "type": "file"
+                },
+                {
+                    "name": "chapter_4.md",
+                    "type": "file"
+                },
+                {
+                    "name": "chapter_7.md",
+                    "type": "file"
+                }
+            ]
+        },
+        {
+            "name": "task_book",
+            "type": "directory",
+            "children": [
+                {
+                    "name": "add_user_and_group_to_sudoers.md",
+                    "type": "file"
+                }
+            ]
+        },
+        {
+            "name": "scripts",
+            "type": "directory",
+            "children": [
+                {
+                    "name": "multifree.sh",
+                    "type": "file"
+                },
+                {
+                    "name": "multifree.sh.x.c",
+                    "type": "file"
+                }
+            ]
+        },
+        {
+            "name": ".git",
+            "type": "directory",
+            "children": [
+                {
+                    "name": "FETCH_HEAD",
+                    "type": "file"
+                },
+                {
+                    "name": "COMMIT_EDITMSG",
+                    "type": "file"
+                },
+                {
+                    "name": "objects",
+                    "type": "directory",
+                    "children": [
+                        {
+                            "name": "pack",
+                            "type": "directory",
+                            "children": []
+                        },
+                        {
+                            "name": "4e",
+                            "type": "directory",
+                            "children": [
+                                {
+                                    "name": "f7eac9d8ffa2ef695402763ac73d39389f3ec4",
+                                    "type": "file"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "da",
+                            "type": "directory",
+                            "children": [
+                                {
+                                    "name": "ac916a9cafd2325f2e00c6c20d9b28a7b41718",
+                                    "type": "file"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "7d",
+                            "type": "directory",
+                            "children": [
+                                {
+                                    "name": "ef86f70e17a5fc8cc0457a5154ce8b34cde04a",
+                                    "type": "file"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "06",
+                            "type": "directory",
+                            "children": [
+                                {
+                                    "name": "373f7766ebc8ab2655216dfc6289e44038f3e4",
+                                    "type": "file"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "20",
+                            "type": "directory",
+                            "children": [
+                                {
+                                    "name": "52dbdee1109d034b1f77b5027cc450a26a65f6",
+                                    "type": "file"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "2c",
+                            "type": "directory",
+                            "children": [
+                                {
+                                    "name": "b0e0c9ea2f220d7c3166778ac4153066672e1a",
+                                    "type": "file"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "84",
+                            "type": "directory",
+                            "children": [
+                                {
+                                    "name": "10420f449f6d393422a2f52bad3840375b1e3b",
+                                    "type": "file"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "9c",
+                            "type": "directory",
+                            "children": [
+                                {
+                                    "name": "124b7ceef2a44b8e51ddbb4dfdf5fdec4afc7d",
+                                    "type": "file"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "cf",
+                            "type": "directory",
+                            "children": [
+                                {
+                                    "name": "4d882ef4f9eb5fd7c0632e7db8d653439fbfc5",
+                                    "type": "file"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "e2",
+                            "type": "directory",
+                            "children": [
+                                {
+                                    "name": "89df7c256bc510f7530989157b39ead85203fa",
+                                    "type": "file"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "c9",
+                            "type": "directory",
+                            "children": [
+                                {
+                                    "name": "7f612f2e6aef5ce6de56dcb238eb789c973055",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "df3fe7d51fed8f6d372473eb2f6ca2973eec6c",
+                                    "type": "file"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "09",
+                            "type": "directory",
+                            "children": [
+                                {
+                                    "name": "9ca9b4d377add1a254be329ac422666dfc1533",
+                                    "type": "file"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "5d",
+                            "type": "directory",
+                            "children": [
+                                {
+                                    "name": "ac42afd404e51c3c86c1d69269d1c0c068d041",
+                                    "type": "file"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "f2",
+                            "type": "directory",
+                            "children": [
+                                {
+                                    "name": "fec7fb576e9abee0efd554cfe58b756c194ca7",
+                                    "type": "file"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "76",
+                            "type": "directory",
+                            "children": [
+                                {
+                                    "name": "140f1cfbbd3c94dfe18a1f31770b72b20fdfb0",
+                                    "type": "file"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "44",
+                            "type": "directory",
+                            "children": [
+                                {
+                                    "name": "eeed4aa7d4a7d43ea3f44e1698f8d8724a60fc",
+                                    "type": "file"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "e4",
+                            "type": "directory",
+                            "children": [
+                                {
+                                    "name": "87a8761f4a2bbbeebc39f7bafc63c9dcf88c3c",
+                                    "type": "file"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "25",
+                            "type": "directory",
+                            "children": [
+                                {
+                                    "name": "80b6c59c51163791184615eb4b0e05e9da65b4",
+                                    "type": "file"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "c8",
+                            "type": "directory",
+                            "children": [
+                                {
+                                    "name": "7629692959bb9f2507656d3b68955798b94449",
+                                    "type": "file"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "fd",
+                            "type": "directory",
+                            "children": [
+                                {
+                                    "name": "5a3204479c825afc5dc021ec47633909b6b214",
+                                    "type": "file"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "3c",
+                            "type": "directory",
+                            "children": [
+                                {
+                                    "name": "3c0dc31c9e2af4c46b87ee600bc19eccf84b85",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "24f91b40dda8f27f1dc36c3ff194db77df141a",
+                                    "type": "file"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "77",
+                            "type": "directory",
+                            "children": [
+                                {
+                                    "name": "e9b003ad996d4f3b5f9260ac800807f3ac693c",
+                                    "type": "file"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "ab",
+                            "type": "directory",
+                            "children": [
+                                {
+                                    "name": "4648aaaf9f8b8c26140ba2434c0981efc8207f",
+                                    "type": "file"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "ed",
+                            "type": "directory",
+                            "children": [
+                                {
+                                    "name": "c8c6c423e9e6bb48608f0bb59aa3a73aad091b",
+                                    "type": "file"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "d6",
+                            "type": "directory",
+                            "children": [
+                                {
+                                    "name": "6a1da68a530dad7d0dff705e3da960e2251877",
+                                    "type": "file"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "info",
+                            "type": "directory",
+                            "children": []
+                        },
+                        {
+                            "name": "24",
+                            "type": "directory",
+                            "children": [
+                                {
+                                    "name": "fd457305c742157cd7e1c15c20bc612db1bc84",
+                                    "type": "file"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "4f",
+                            "type": "directory",
+                            "children": [
+                                {
+                                    "name": "599c28630a2000fca01f8169147ae7655cb50a",
+                                    "type": "file"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "e7",
+                            "type": "directory",
+                            "children": [
+                                {
+                                    "name": "533c9036aef04d9300834d6f86215eb1b83537",
+                                    "type": "file"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "48",
+                            "type": "directory",
+                            "children": [
+                                {
+                                    "name": "2ba483783cc47dba25dcf7dffa042a2648436c",
+                                    "type": "file"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "e6",
+                            "type": "directory",
+                            "children": [
+                                {
+                                    "name": "9de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+                                    "type": "file"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "a8",
+                            "type": "directory",
+                            "children": [
+                                {
+                                    "name": "3750412e2a0381b741addb97382958f87435f0",
+                                    "type": "file"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "36",
+                            "type": "directory",
+                            "children": [
+                                {
+                                    "name": "88a44b98df5c3052a45ca1d08dd72efc3232b0",
+                                    "type": "file"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "ec",
+                            "type": "directory",
+                            "children": [
+                                {
+                                    "name": "ed1b5ed24a17af4f9e52d470821c6be10570b1",
+                                    "type": "file"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "8e",
+                            "type": "directory",
+                            "children": [
+                                {
+                                    "name": "46c28be8a8d757d0f72fa1751aa6a32b6014c2",
+                                    "type": "file"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "9a",
+                            "type": "directory",
+                            "children": [
+                                {
+                                    "name": "5182b7ce6d9367d8ff9635f2d013c2fb32ab03",
+                                    "type": "file"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "branches",
+                    "type": "directory",
+                    "children": []
+                },
+                {
+                    "name": "logs",
+                    "type": "directory",
+                    "children": [
+                        {
+                            "name": "HEAD",
+                            "type": "file"
+                        },
+                        {
+                            "name": "refs",
+                            "type": "directory",
+                            "children": [
+                                {
+                                    "name": "remotes",
+                                    "type": "directory",
+                                    "children": [
+                                        {
+                                            "name": "origin",
+                                            "type": "directory",
+                                            "children": [
+                                                {
+                                                    "name": "master",
+                                                    "type": "file"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "heads",
+                                    "type": "directory",
+                                    "children": [
+                                        {
+                                            "name": "master",
+                                            "type": "file"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "index",
+                    "type": "file"
+                },
+                {
+                    "name": "ORIG_HEAD",
+                    "type": "file"
+                },
+                {
+                    "name": "description",
+                    "type": "file"
+                },
+                {
+                    "name": "info",
+                    "type": "directory",
+                    "children": [
+                        {
+                            "name": "exclude",
+                            "type": "file"
+                        }
+                    ]
+                },
+                {
+                    "name": "hooks",
+                    "type": "directory",
+                    "children": [
+                        {
+                            "name": "commit-msg.sample",
+                            "type": "file"
+                        },
+                        {
+                            "name": "applypatch-msg.sample",
+                            "type": "file"
+                        },
+                        {
+                            "name": "update.sample",
+                            "type": "file"
+                        },
+                        {
+                            "name": "pre-applypatch.sample",
+                            "type": "file"
+                        },
+                        {
+                            "name": "pre-receive.sample",
+                            "type": "file"
+                        },
+                        {
+                            "name": "prepare-commit-msg.sample",
+                            "type": "file"
+                        },
+                        {
+                            "name": "push-to-checkout.sample",
+                            "type": "file"
+                        },
+                        {
+                            "name": "post-update.sample",
+                            "type": "file"
+                        },
+                        {
+                            "name": "fsmonitor-watchman.sample",
+                            "type": "file"
+                        },
+                        {
+                            "name": "pre-rebase.sample",
+                            "type": "file"
+                        },
+                        {
+                            "name": "pre-merge-commit.sample",
+                            "type": "file"
+                        },
+                        {
+                            "name": "pre-commit.sample",
+                            "type": "file"
+                        },
+                        {
+                            "name": "pre-push.sample",
+                            "type": "file"
+                        }
+                    ]
+                },
+                {
+                    "name": "config",
+                    "type": "file"
+                },
+                {
+                    "name": "HEAD",
+                    "type": "file"
+                },
+                {
+                    "name": "refs",
+                    "type": "directory",
+                    "children": [
+                        {
+                            "name": "remotes",
+                            "type": "directory",
+                            "children": [
+                                {
+                                    "name": "origin",
+                                    "type": "directory",
+                                    "children": [
+                                        {
+                                            "name": "master",
+                                            "type": "file"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "tags",
+                            "type": "directory",
+                            "children": []
+                        },
+                        {
+                            "name": "heads",
+                            "type": "directory",
+                            "children": [
+                                {
+                                    "name": "master",
+                                    "type": "file"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
