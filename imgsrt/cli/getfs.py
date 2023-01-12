@@ -1,6 +1,17 @@
 import os 
 import json
+from pydantic import BaseModel
 
+# Pass models to functions with pydantic syntax
+
+class FilesystemModel(Basemodel):
+    filesystem: dict
+
+class FilesystemIndex(BaseModel):
+    __root__: dict[str, FilesystemModel]
+
+class JsonModel(BaseModel):
+    filesystems: FilesystemIndex
 
 
 def get_filesystem(fs_root):
